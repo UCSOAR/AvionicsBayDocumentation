@@ -15,17 +15,20 @@ Started Oct 23, 2024
 
 
 ## Connector Specs
-- D'sub connectors
+- D'sub connectors 
+- MAKE IT BIG, LIKE 10CM (structural)
 - Protocol standard for each pin
-- 90° Connectors from mother board
-Parallel connectors on sub boards
+- 90° Connectors from mother board, Parallel connectors on sub boards
 
 ## Power Specs
-**RSB (radio) Board (Ana):** 3V3 (intena) 
+**12V, 5V, 3V3?** Wire gauge, Amp max
 
-**24V, 12V, 5V, 3V3?** Wire gauge, Amp max
+**Current Draw:** 
+- 2A, 3V3 (radio)
+- WHAT DO THE OTHER BOARDS NEED???
 
-**Chassis Ground?**
+**Chassis Ground???**
+- Depends on what material the chassis is made of 
 
 
 ## Data Line Specs
@@ -36,12 +39,12 @@ And is daisy chained at top and bottom
 Maximum signaling rate of 1 megabit per second (bps). 120Ω terminating resistance
 
 ### Dirrect Camera Data Lines:
-The Camera will have its own 
+Maybe if we have radio bandwidth
 
 **RSB:** UART (~5Mbs)?
 
 ## Sub-Board List
-- [DBC](#daughter-board-cube-dbc) RSB Radio Board (Ana):
+- [DBC](#daughter-board-cube-dbc) RSB Radio Board (Ana)
 - Camera Board??
 - [DBC](#daughter-board-cube-dbc) Flight Control Board FCB (El-Mougey)
 - [DBC](#daughter-board-cube-dbc) Camera Interface Board CIB ()
@@ -65,6 +68,13 @@ The Camera will have its own
 - DAQ board lives here
 - Actuator + Data board
 - Wall mount connectors for all sensor connectors (Patch/GPS intena included)
+
+
+## TODO
+- Pick connectors daughter board and mother board daisy chain
+- Pick connectors for wall mount connectors (Rhoda + Mohammad)
+- Find total current draw
+- CAD the SatCube Structure
 
 
 
