@@ -65,14 +65,14 @@ Maybe if we have radio bandwidth
 - Any number of these may be used based on number of PCBs
 
 ### Sensor and Actuator Cube (SAC):
-- DAQ board lives here
-- Actuator + Data board
+- DAQ board lives here (has sensors connected)
+- Actuator board
 - Wall mount connectors for all sensor connectors (Patch/GPS intena included)
 
 
 ## TODO
 - Pick connectors daughter board and mother board daisy chain
-- Pick connectors for wall mount connectors (Rhoda + Mohammad)
+- Pick connectors for wall mount connectors sensors (Rhoda + Mohammad)
 - Find total current draw
 - CAD the SatCube Structure
 
