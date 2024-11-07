@@ -43,6 +43,9 @@ Maybe if we have radio bandwidth
 
 **RSB:** UART (~5Mbs)?
 
+### Connector Pin Assigments:
+What are the connector pins assigned to? Gotta figure out what power requirement look like before asignment can be made.
+
 ## Sub-Board List
 - [DBC](#daughter-board-cube-dbc) RSB Radio Board (Ana)
 - Camera Board??
