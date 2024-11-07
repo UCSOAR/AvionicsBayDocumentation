@@ -74,6 +74,7 @@ Maybe if we have radio bandwidth
 - Pick connectors daughter board and mother board daisy chain
 - Pick connectors for wall mount connectors sensors (Rhoda + Mohammad)
 - Find total current draw
+- Determine how terminating resistors work with daisy chain
 - CAD the SatCube Structure
 
 
