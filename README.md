@@ -15,13 +15,12 @@ Started Oct 23, 2024
 
 
 ## Connector Specs
-- D'sub connectors 
-- MAKE IT BIG, LIKE 10CM (structural)
-- Protocol standard for each pin
-- 90° Connectors from mother board, Parallel connectors on sub boards
+- D'sub 37 position two row connectors for motherboard daisy chaining
+- Dual edge connectors perpendicular to motherboard for daughterboard
+- *See connector spec docs for pinout   *
 
 ## Power Specs
-**12V, 5V, 3V3?** Wire gauge, Amp max
+**12V, 5V, 3V3** Wire gauge, Amp max
 
 **Current Draw:** 
 - 2A, 3V3 (radio)
@@ -74,11 +73,11 @@ What are the connector pins assigned to? Gotta figure out what power requirement
 
 
 ## TODO
-- Pick connectors daughter board and mother board daisy chain
-- Pick connectors for wall mount connectors sensors (Rhoda + Mohammad)
-- Find total current draw
-- Determine how terminating resistors work with daisy chain
-- CAD the SatCube Structure
+- [x] Pick connectors daughter board and mother board daisy chain
+- [ ] Pick connectors for wall mount connectors sensors (Rhoda + Mohammad)
+- [ ] Find total current draw
+- [x] Determine how terminating resistors work with daisy chain
+- [ ] CAD the SatCube Structure
 
 
 
