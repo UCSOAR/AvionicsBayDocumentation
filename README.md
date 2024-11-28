@@ -17,7 +17,7 @@ Started Oct 23, 2024
 ## Connector Specs
 - D'sub 37 position two row connectors for motherboard daisy chaining
 - Dual edge connectors perpendicular to motherboard for daughterboard
-- *See connector spec docs for pinout   *
+- *See connector spec docs for pinout*
 
 ## Power Specs
 **12V, 5V, 3V3** Wire gauge, Amp max
